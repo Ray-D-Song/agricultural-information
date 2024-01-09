@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/test/</loc>
+    <loc>https:ainfo.ray-d-song.com/test/</loc>
     <lastmod>2024-01-09T17:44:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https:ainfo.ray-d-song.com/</loc>
+    <lastmod>2024-01-09T17:52:32+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https:ainfo.ray-d-song.com/post/</loc>
+    <lastmod>2024-01-09T17:52:32+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https:ainfo.ray-d-song.com/post/916-agricultural-information-1z27or.html</loc>
+    <lastmod>2024-01-09T17:52:32+00:00</lastmod>
+  </url><url>
+    <loc>https:ainfo.ray-d-song.com/categories/</loc>
+  </url><url>
+    <loc>https:ainfo.ray-d-song.com/tags/</loc>
   </url>
 </urlset>
