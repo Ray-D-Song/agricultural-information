@@ -2,4 +2,4 @@ baseURL = 'https://ainfo.ray-song.com'
 languageCode = 'en-us'
 title = '农业工程与信息技术'
 
-theme = 'hugo-PaperMod'
+theme = 'hugo-theme-flat'
