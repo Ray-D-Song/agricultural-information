@@ -14,7 +14,7 @@ isCJKLanguage: true
 
 ‍
 
-名词解释
+[名词解释](https://ainfo.ray-song.com/post/basic-term-interpretation-of-agricultural-information-nrp2l)
 
 # 第一节: 农业信息学的形成
 
