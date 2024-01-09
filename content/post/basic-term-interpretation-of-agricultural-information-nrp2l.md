@@ -5,6 +5,7 @@ url: /post/basic-term-interpretation-of-agricultural-information-nrp2l.html
 date: '2024-01-07 20:44:41'
 lastmod: '2024-01-09 22:16:29'
 toc: true
+hidden: true
 isCJKLanguage: true
 ---
 
