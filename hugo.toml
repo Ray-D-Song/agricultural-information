@@ -1,5 +1,5 @@
-baseURL = 'https:ainfo.ray-d-song.com'
+baseURL = 'https://ainfo.ray-d-song.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '农业工程与信息技术'
 
-theme = 'Anubis'
+theme = 'hugo-PaperMod'
