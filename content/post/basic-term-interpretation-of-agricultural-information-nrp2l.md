@@ -8,7 +8,7 @@ toc: true
 isCJKLanguage: true
 ---
 
-# 农业信息基础名词解释
+# [农业信息基础名词解释](https://ainfo.ray-song.com/post/basic-term-interpretation-of-agricultural-information-nrp2l)
 
 1. 数字农业
 
